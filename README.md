@@ -12,11 +12,10 @@
 
 ---
 
-## Tools
-- **Language:** `Python`
-- **Data Libraries:** `Pandas`, `NumPy` (Data Preprocessing & Feature Engineering)
-- **Machine Learning & Mining:** `Scikit-learn` (Clustering & Predictive Modeling)
-- **Visualization:** `Matplotlib`, `Seaborn`
+## Tech Stack & Libraries
+- **Language:** Python
+- **Data Manipulation:** Data Cleansing & Transformation using **Pandas** and **NumPy**
+- **Machine Learning & Analytics:** **Scikit-learn** (K-Means Clustering, Association Rules, Classification Modeling)
 
 ---
 
